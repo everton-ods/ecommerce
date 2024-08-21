@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'everton-ods/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '39347cd02022f0c89d6fb8928dff8aa6366fa6a6',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'everton-ods/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '39347cd02022f0c89d6fb8928dff8aa6366fa6a6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
